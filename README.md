@@ -18,6 +18,12 @@ browser, Companion in the shack.
 ## Quick start
 
 1. Put `PropDeck-Companion.exe` in a folder of its own and run it.
+
+   > ⚠️ **First run:** Windows SmartScreen will warn about an unrecognised
+   > app — click **More info → Run anyway**. Free, unsigned software; you
+   > only do it once. (Or head it off: right-click the exe → **Properties**
+   > → tick **Unblock** → OK.)
+
 2. Point your decoder's *UDP Server / Reporting* at `127.0.0.1`, port `2237`
    (WSJT-X, JTDX, MSHV and Decodium 4 all work; multicast groups supported).
 3. Operate. The roster fills, new DXCC light up, dupes get struck through,
