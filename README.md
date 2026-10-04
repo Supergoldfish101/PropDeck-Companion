@@ -12,10 +12,15 @@ One portable exe for Windows 10/11. No installer — `config.json` and `logs\`
 are created beside it. The full manual (`MANUAL.md`) is attached to every
 release.
 
-**New in V1.9.0:** integrated **Last QSO** readouts show when you last worked
-the current station. The **Call History** workspace searches a callsign and
-lists every saved contact, including portable variants, newest first. Both
-features use your local master log and work offline.
+**New in V1.10.0:** 20 offline languages for the interface, diagnostics and
+written manual, matching PropDeck. Choose a language under **Settings →
+General → Options**, then close and reopen Companion. **Open manual** opens
+help in your selected language. Initial non-English translations are machine
+drafts and may need fluent-speaker review.
+
+**Last QSO** readouts and **Call History** show when you last worked a station
+and let you browse every matching contact, including portable variants. Both
+use your local master log and work offline, with larger text and roomier rows.
 
 **Pairs with [PropDeck.net](https://propdeck.net)** — PropDeck in the
 browser, Companion in the shack.
@@ -36,7 +41,7 @@ browser, Companion in the shack.
 
 ## Updating
 
-The app checks this repository: **Settings → OPTIONS → Check for updates**.
+The app checks this repository: **Settings → General → Options → Check for updates**.
 It only checks when you click, and updating is just replacing the exe — your
 config and logs live beside it and survive the swap.
 
