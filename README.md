@@ -12,6 +12,11 @@ One portable exe for Windows 10/11. No installer — `config.json` and `logs\`
 are created beside it. The full manual (`MANUAL.md`) is attached to every
 release.
 
+**New in V1.9.0:** integrated **Last QSO** readouts show when you last worked
+the current station. The **Call History** workspace searches a callsign and
+lists every saved contact, including portable variants, newest first. Both
+features use your local master log and work offline.
+
 **Pairs with [PropDeck.net](https://propdeck.net)** — PropDeck in the
 browser, Companion in the shack.
 
