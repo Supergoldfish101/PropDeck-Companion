@@ -12,11 +12,17 @@ One portable exe for Windows 10/11. No installer — `config.json` and `logs\`
 are created beside it. The full manual (`MANUAL.md`) is attached to every
 release.
 
-**New in V1.10.0:** 20 offline languages for the interface, diagnostics and
-written manual, matching PropDeck. Choose a language under **Settings →
-General → Options**, then close and reopen Companion. **Open manual** opens
-help in your selected language. Initial non-English translations are machine
-drafts and may need fluent-speaker review.
+**New in V1.11.0: Log Map.** Open the tab after **Call History** to explore your
+master log on an offline dark or light world map. Track Maidenhead grids,
+DXCC entities and CQ/ITU zones; filter contacts, preview or pin details, follow
+live decoder stations and replay your log over time. **Pop Out** moves the
+entire map workspace to another monitor, with its view and placement saved.
+
+The interface, diagnostics and written manual are available in 20 offline
+languages, matching PropDeck. Choose a language under **Settings → General →
+Options**, then close and reopen Companion. **Open manual** opens help in your
+selected language. Initial non-English translations are machine drafts and
+may need fluent-speaker review.
 
 **Last QSO** readouts and **Call History** show when you last worked a station
 and let you browse every matching contact, including portable variants. Both
