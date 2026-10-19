@@ -12,7 +12,7 @@ One portable exe for Windows 10/11. No installer — `config.json` and `logs\`
 are created beside it. The full manual (`MANUAL.md`) is attached to every
 release.
 
-**New in V1.12.0:** download or import **LoTW confirmations**, track QRZ, LoTW and paper evidence separately, and review every missing-grid suggestion before saving. Grid review compares recorded coordinates, other QSOs with the same callsign, matched LoTW reports and explicit QRZ lookups. The map also has clearer dropdown arrows and fonts, density/date legends, and coordinate markers. eQSL tracking is deferred.
+**New in V1.13.0:** a **Stats** tab inside Log Map with overview totals and band/mode progress; a pulsing gold grid for the station you are working; and a visible **Show details / Hide details** button that gives the map its full width. Roster and dropdown fonts handle mixed-DPI monitors, and LoTW downloads and matching show progress and respond to cancellation.
 
 **Log Map.** Open the tab after **Call History** to explore your
 master log on an offline dark or light world map. Track Maidenhead grids,
