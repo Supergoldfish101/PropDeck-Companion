@@ -12,7 +12,7 @@ One portable exe for Windows 10/11. No installer — `config.json` and `logs\`
 are created beside it. The full manual (`MANUAL.md`) is attached to every
 release.
 
-**New in V1.13.0:** a **Stats** tab inside Log Map with overview totals and band/mode progress; a pulsing gold grid for the station you are working; and a visible **Show details / Hide details** button that gives the map its full width. Roster and dropdown fonts handle mixed-DPI monitors, and LoTW downloads and matching show progress and respond to cancellation.
+**New in V1.13.1:** the map collapse/expand control reuses the existing toolbar instead of taking a separate row, restoring the map's vertical space. Includes the 1.13 Stats tab, pulsing target grid, and mixed-DPI font fixes.
 
 **Log Map.** Open the tab after **Call History** to explore your
 master log on an offline dark or light world map. Track Maidenhead grids,
