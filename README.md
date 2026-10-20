@@ -12,7 +12,7 @@ One portable exe for Windows 10/11. No installer — `config.json` and `logs\`
 are created beside it. The full manual (`MANUAL.md`) is attached to every
 release.
 
-**New in V1.13.1:** the map collapse/expand control reuses the existing toolbar instead of taking a separate row, restoring the map's vertical space. Includes the 1.13 Stats tab, pulsing target grid, and mixed-DPI font fixes.
+**New in V1.14.0:** persistent grid leads from live WSJT-X decodes, new-lead flags and counts, and manual review, dismissal and saving. Show/Hide details stays on the right of its toolbar row. Narrow Simplified Chinese workspaces no longer stall on hidden filter layouts. All 20 language packs and offline manuals are current.
 
 **Log Map.** Open the tab after **Call History** to explore your
 master log on an offline dark or light world map. Track Maidenhead grids,
