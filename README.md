@@ -2,8 +2,7 @@
 
 **The desktop companion for FT8 & FT4, by VE6KIX** — live roster with
 GridTracker's colour language, DXCC & grid hunting against your own logbook,
-FT8 Battle forwarding with UTC-day dupe blocking, POTA / SOTA / WWFF
-enrichment, QRZ.com & LoTW uploads, and a live feed to
+POTA / SOTA / WWFF enrichment, QRZ.com & LoTW uploads, ADIF relays, and a live feed to
 [PropDeck.net](https://propdeck.net).
 
 ## [⬇ Download the latest release](../../releases/latest)
@@ -12,7 +11,11 @@ One portable exe for Windows 10/11. No installer — `config.json` and `logs\`
 are created beside it. The full manual (`MANUAL.md`) is attached to every
 release.
 
-**New in V1.14.0:** persistent grid leads from live WSJT-X decodes, new-lead flags and counts, and manual review, dismissal and saving. Show/Hide details stays on the right of its toolbar row. Narrow Simplified Chinese workspaces no longer stall on hidden filter layouts. All 20 language packs and offline manuals are current.
+**New in V1.15.0:** optional sticky Digital comments saved until cleared, plus streamlined Digital settings and QSO review with one shared
+comment for local logs, uploads, and relays. Discontinued service forwarding,
+activity-feed hunting, and attribution options have been removed. General DXCC
+and grid hunting, worked-today indicators, and short-window decoder-message
+suppression remain. All 20 language packs and offline manuals are current.
 
 **Log Map.** Open the tab after **Call History** to explore your
 master log on an offline dark or light world map. Track Maidenhead grids,
@@ -45,7 +48,8 @@ browser, Companion in the shack.
 2. Point your decoder's *UDP Server / Reporting* at `127.0.0.1`, port `2237`
    (WSJT-X, JTDX, MSHV and Decodium 4 all work; multicast groups supported).
 3. Operate. The roster fills, new DXCC light up, dupes get struck through,
-   and every fresh QSO flows to FT8 Battle, QRZ, LoTW and PropDeck.net.
+   and committed QSOs reach your local log and configured QRZ, LoTW, ADIF relay,
+   and PropDeck.net destinations.
 
 ## Updating
 
