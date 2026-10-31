@@ -11,11 +11,7 @@ One portable exe for Windows 10/11. No installer — `config.json` and `logs\`
 are created beside it. The full manual (`MANUAL.md`) is attached to every
 release.
 
-**New in V1.15.0:** optional sticky Digital comments saved until cleared, plus streamlined Digital settings and QSO review with one shared
-comment for local logs, uploads, and relays. Discontinued service forwarding,
-activity-feed hunting, and attribution options have been removed. General DXCC
-and grid hunting, worked-today indicators, and short-window decoder-message
-suppression remain. All 20 language packs and offline manuals are current.
+**New in V1.17.0:** a rising **woop woop** when someone is calling you and you are not working them, on one shared cooldown so a pileup does not blast every cycle. The bold underlined callsign now always means never worked on any band or mode. V1.16.0 added the roster's **Hunt** menu: new DXCC/grid and unworked-callsign marks, per-band/mode slots, and a **Show only unworked stations** filter. All 20 language packs and offline manuals are current.
 
 **Log Map.** Open the tab after **Call History** to explore your
 master log on an offline dark or light world map. Track Maidenhead grids,
