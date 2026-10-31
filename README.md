@@ -11,7 +11,7 @@ One portable exe for Windows 10/11. No installer — `config.json` and `logs\`
 are created beside it. The full manual (`MANUAL.md`) is attached to every
 release.
 
-**New in V1.17.0:** a rising **woop woop** when someone is calling you and you are not working them, on one shared cooldown so a pileup does not blast every cycle. The bold underlined callsign now always means never worked on any band or mode. V1.16.0 added the roster's **Hunt** menu: new DXCC/grid and unworked-callsign marks, per-band/mode slots, and a **Show only unworked stations** filter. All 20 language packs and offline manuals are current.
+**New in V1.18.0:** a Log Map overhaul. Missing grids fill themselves when the on-air, LoTW and QSO-coordinate evidence agrees (never from a country's default location); one-click date ranges and multi-select band and mode buttons; a **Paths** toggle that shows everything you worked in a date range; and a toolbar that wraps cleanly on narrow screens. V1.17.0 added a **woop woop** alert when someone is calling you. All 20 language packs and offline manuals are current.
 
 **Log Map.** Open the tab after **Call History** to explore your
 master log on an offline dark or light world map. Track Maidenhead grids,
