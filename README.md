@@ -11,7 +11,7 @@ One portable exe for Windows 10/11. No installer — `config.json` and `logs\`
 are created beside it. The full manual (`MANUAL.md`) is attached to every
 release.
 
-**New in V1.18.0:** a Log Map overhaul. Missing grids fill themselves when the on-air, LoTW and QSO-coordinate evidence agrees (never from a country's default location); one-click date ranges and multi-select band and mode buttons; a **Paths** toggle that shows everything you worked in a date range; and a toolbar that wraps cleanly on narrow screens. V1.17.0 added a **woop woop** alert when someone is calling you. All 20 language packs and offline manuals are current.
+**New in V1.19.0:** the roster row of whoever is calling you now flashes along with the **woop woop**, and the Log Map is easier to read: see-through grid squares, thicker paths, bolder live callsigns, hover summaries that stay put, and a one-click sun/moon theme button. V1.18.0 overhauled the Log Map with automatic grids, quick date/band/mode filters and a **Paths** toggle. All 20 language packs and offline manuals are current.
 
 **Log Map.** Open the tab after **Call History** to explore your
 master log on an offline dark or light world map. Track Maidenhead grids,
