@@ -11,7 +11,7 @@ One portable exe for Windows 10/11. No installer — `config.json` and `logs\`
 are created beside it. The full manual (`MANUAL.md`) is attached to every
 release.
 
-**New in V1.19.0:** the roster row of whoever is calling you now flashes along with the **woop woop**, and the Log Map is easier to read: see-through grid squares, thicker paths, bolder live callsigns, hover summaries that stay put, and a one-click sun/moon theme button. V1.18.0 overhauled the Log Map with automatic grids, quick date/band/mode filters and a **Paths** toggle. All 20 language packs and offline manuals are current.
+**New in V1.20.0:** the roster’s **Dist** column now leads with an arrow for the short-path bearing to the station (`↗ 1.4k` = 1400 km to the north-east, in 45° steps), so you can see at a glance whether your antenna is pointed the right way; hover the row for the exact bearing in degrees. V1.19.0 made the roster row of whoever is calling you flash along with the **woop woop** and made the Log Map easier to read. All 20 language packs and offline manuals are current.
 
 **Log Map.** Open the tab after **Call History** to explore your
 master log on an offline dark or light world map. Track Maidenhead grids,
